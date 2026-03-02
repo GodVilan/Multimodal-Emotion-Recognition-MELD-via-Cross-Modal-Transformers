@@ -73,7 +73,7 @@ multimodal-emotion-recognition/
 ### 1. Requirements
 Ensure you are running Python 3.10+ and have a CUDA-enabled GPU.
 ```bash
-pip install torch torchvision torchaudio transformers datasets librosa opencv-python scikit-learn seaborn matplotlib
+pip install -r requirements.txt
 ```
 
 ### 2. Preprocessing
